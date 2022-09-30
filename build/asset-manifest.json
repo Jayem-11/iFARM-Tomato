@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7d1fafd.css",
+    "main.js": "/static/js/main.ab6b5dcd.js",
+    "static/media/tomato.jpg": "/static/media/tomato.6c310378cfcecc240251.jpg",
+    "index.html": "/index.html",
+    "main.e7d1fafd.css.map": "/static/css/main.e7d1fafd.css.map",
+    "main.ab6b5dcd.js.map": "/static/js/main.ab6b5dcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d1fafd.css",
+    "static/js/main.ab6b5dcd.js"
+  ]
+}
